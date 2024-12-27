@@ -1,0 +1,10 @@
+Algorithm: DFS
+TT             KE                                      LList                         
+-------------------------------------------------------------------------------------------------------------------
+A              B,C,D                                   A                             
+D              C,F                                     A                             
+F              K                                       A                             
+K                                                      A                             
+C              E,F                                     A                             
+E              G,K                                     A                             
+G              TTKT-Dung duong di la G,K<--A<--E       A                             

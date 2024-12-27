@@ -13,5 +13,3 @@ G 5 H 3
 I 8 B 0
 I 8 G 5
 H 3 G 5
-START A 20
-FINISH B 0
